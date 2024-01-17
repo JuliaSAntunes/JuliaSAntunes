@@ -1,5 +1,5 @@
-- 👋 Olá! Eu sou a Julia Antunes
+- 👋 Hello, I'm Júlia!
 
-- 🌱 Estudando Html,Css ...
+- 🌱 Studying Html,Css ...
 
 
